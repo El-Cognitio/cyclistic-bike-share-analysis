@@ -195,3 +195,4 @@ Platform: Coursera
 **Name:** Oluwatimilehin Owoeye  
 **LinkedIn:** [Oluwatimilehin Owoeye](https://www.linkedin.com/in/oluwatimilehin-owoeye-08a709192)  
 **Tableau Public:** https://public.tableau.com/app/profile/oluwatimilehin.owoeye
+**Kaggle:** https://www.kaggle.com/oluwatimilehinowoeye
