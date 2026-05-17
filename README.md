@@ -192,7 +192,13 @@ Platform: Coursera
 ---
 
 ## Contact
-**Name:** Oluwatimilehin Owoeye  
-**LinkedIn:** [Oluwatimilehin Owoeye](https://www.linkedin.com/in/oluwatimilehin-owoeye-08a709192)  
-**Tableau Public:** https://public.tableau.com/app/profile/oluwatimilehin.owoeye
-**Kaggle:** https://www.kaggle.com/oluwatimilehinowoeye
+
+**Name:** Oluwatimilehin Owoeye
+
+**LinkedIn:** [Oluwatimilehin Owoeye](https://www.linkedin.com/in/oluwatimilehin-owoeye-08a709192)
+
+**GitHub:** [El-Cognitio](https://github.com/El-Cognitio)
+
+**Tableau Public:** [Dashboard](https://public.tableau.com/app/profile/oluwatimilehin.owoeye)
+
+**Kaggle:** [oluwatimilehinowoeye](https://www.kaggle.com/oluwatimilehinowoeye)
